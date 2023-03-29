@@ -1,0 +1,52 @@
+<Route path="/business"><News pageSize={9} country="in" category="general"/></Route>
+<Route path="/entertainment"><News pageSize={9} country="in" category="general"/></Route>
+<Route path="/general"><News pageSize={9} country="in" category="general"/></Route>
+<Route path="/health"><News pageSize={9} country="in" category="general"/></Route>
+<Route path="/science"><News pageSize={9} country="in" category="general"/></Route>
+<Route path="/sports"><News pageSize={9} country="in" category="general"/></Route>
+<Route path="/technology"><News pageSize={9} country="in" category="general"/></Route>
+
+
+
+
+<Route path="/"><News pageSize={9} country="in" category="general"/></Route>
+
+
+
+// handleNextClick = async () => {
+
+
+    //   let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=
+    //  ${this.props.category}&apiKey=af9ee52be6f74733bbb88b3aaef8d169&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
+    //   let data = await fetch(url);
+    //   let parseData = await data.json();
+    //   this.setState({
+    //     page: this.state.page + 1,
+    //    articles:parseData.articles
+
+    //     })
+  //  this.setState({ page: this.state.page + 1 });
+  //  this.updateNews();
+
+ // }
+
+
+ // handlePrevClick = async () => {
+    //     let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=af9ee52be6f74733bbb88b3aaef8d169&page=${this.state.page - 1}&pageSize=${this.props.pageSize}`;
+    //     let data = await fetch(url);
+    //     let parseData = await data.json();
+    // this.setState({
+    //   page: this.state.page - 1,
+    //  articles:parseData.articles
+    // })
+
+  //  this.setState({ page: this.state.page - 1 });
+   // this.updateNews();
+ // }
+
+
+{/* <div className="container d-flex justify-content-between">
+            <button disabled={this.state.page <= 1} type='button' className='btn btn-dark' onClick={this.handlePrevClick}>&larr; Previous</button>
+            <button disabled={this.state.page + 1 > Math.ceil(this.state.totalResult / this.props.pageSize)} type='button' className='btn btn-dark' onClick={this.handleNextClick}>Next 	&rarr;</button>
+
+          </div> */}

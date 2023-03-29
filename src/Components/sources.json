@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 7755,
+    "articles": [
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Gian M. Volpicelli",
+    "title": "The Rise and Fall of a Bitcoin Mining Sensation",
+    "description": "Compass Mining grew quickly during crypto’s halcyon days. Now, its customers and their thousands of mining machines are stuck.",
+    "url": "https://www.wired.com/story/compass-mining-bitcoin-russia/",
+    "urlToImage": "https://media.wired.com/photos/62e9c5e1d7368105da057de3/191:100/w_1280,c_limit/BitRiver-Mining-Center-Rise-And-Fall-Of-Bitcoin-Mining-Business-1184520941.jpg",
+    "publishedAt": "2022-08-03T11:00:00Z",
+    "content": "It was 8:45 in the morning of June 13 when Bill Stewart, the CEO of Maine-based bitcoin mining business Dynamics Mining, received a call from one of his employees. He's like, Every machine inside of … [+3472 chars]"
+    },
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Lily Hay Newman, Andy Greenberg",
+    "title": "Bitcoin Fog Case Could Put Cryptocurrency Tracing on Trial",
+    "description": "Roman Sterlingov, accused of laundering $336 million, is proclaiming his innocence—and challenging a key investigative tool.",
+    "url": "https://www.wired.com/story/bitcoin-fog-roman-sterlingov-blockchain-analysis/",
+    "urlToImage": "https://media.wired.com/photos/62e95bada1dc74857a858363/191:100/w_1280,c_limit/Bitcoin-Fog-Security-GettyImages-1241143235.jpg",
+    "publishedAt": "2022-08-02T22:02:13Z",
+    "content": "Tools to trace cryptocurrencies have, over just the last several years, allowed law enforcement agencies to convict dark web black market administrators, recover millions in ransomware payments, seiz… [+3510 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Justine Calma",
+    "title": "Texas heatwave and energy crunch curtails Bitcoin mining",
+    "description": "Bitcoin miners in Texas powered down to respond to an energy crunch triggered by a punishing heatwave. Energy demand from cryptomining is growing in the state.",
+    "url": "https://www.theverge.com/2022/7/12/23205066/texas-heat-curtails-bitcoin-mining-energy-demand-electricity-grid",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/sP9sPjh-2PfK76HRsOfHNYNQWAo=/0x285:4048x2404/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23761862/1235927096.jpg",
+    "publishedAt": "2022-07-12T15:50:17Z",
+    "content": "Miners voluntarily powered down as energy demand and prices spiked \r\nAn aerial view of the Whinstone US Bitcoin mining facility in Rockdale, Texas, on October 9th, 2021. The long sheds at North Ameri… [+3770 chars]"
+    }
+]
+}
